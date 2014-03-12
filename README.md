@@ -167,6 +167,7 @@ For any suggestions, please submit a pull request. Additions should be appended 
 - [Full list of dogecoin faucets](http://freedogecoins.net)
 
 ## Games
+- [DogeKing](http://dogeking.com/)
 - [ShibaDice](http://shibadice.com/)
 - [DogeCade](http://dogecade.com/)
 - [Dogespin](http://dogespin.l8.lv/)
